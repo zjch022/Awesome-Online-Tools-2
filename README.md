@@ -11,6 +11,8 @@
 
 [JPG to PDF Converter](https://formatswap.com/tools/jpg2pdf/) - Convert your file from Joint Photographic Experts Group JFIF format to Portable Document Format.
 
+[HEIC to PNG Converter](https://fileontap.com/heic-to-png/) - Free HEIC to PNG converter that runs entirely in your browser — files are never uploaded to any server.
+
 ## Audio Utilities
 [WAV to MP3 Converter](https://formatswap.com/tools/wav2mp3/) - A easy to use wav to mp3 audio conversion tool.
 
